@@ -9,3 +9,9 @@ A simple REST API built with Flask.
 ```bash
 pip install -r requirements.txt
 python app.py
+
+If that doesn't work try:
+
+python3 -m pip install -r requirements.txt
+python3 app.py
+
